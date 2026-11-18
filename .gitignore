@@ -10,9 +10,10 @@ __pycache__/
 *$py.class
 *.ipynb_checkpoints
 
-# Large Data Pack (Do not commit raw proprietary 200k CSV files to public GitHub)
+# Large Data & Media files (Do not push 30MB+ videos or raw 200k CSV files to public GitHub)
 data_pack/
 *.zip
+*.mp4
 
 # Operating System & IDE
 .DS_Store
